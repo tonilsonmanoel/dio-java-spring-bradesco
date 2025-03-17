@@ -1,4 +1,4 @@
-## Sintaxe - Desafio
+## Sintaxe - Desafio Conta Banco
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
